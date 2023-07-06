@@ -5,3 +5,5 @@ laied
 smd
 rolex
 vikram
+santanam
+garuda

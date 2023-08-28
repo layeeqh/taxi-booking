@@ -5,4 +5,3 @@ laied
 rolex
 vikram
 santanam
-leo
